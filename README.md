@@ -1,7 +1,7 @@
 # ATC Management Software
 This a software inspired by https://www.youtube.com/watch?v=hCoIBt49gtk.
 
-Disclaimer: Windows Defender will say it is a Potentially Unwanted Software since it is compiled with PyInstaller and I cant afford to get a digital certificate to sign the exe with. Download at your own choice.
+Disclaimer: Windows Defender will say it is a Potentially Unwanted Software since it is compiled with PyInstaller and I cant afford to get a digital certificate to sign the setup with. Be rest assured it is safe.
 
 ## INSTALLATION
 To install ATC Management Software, you just have to download the FGT.exe from https://github.com/CoderFGT/ATCms/releases. Select the latest version.
