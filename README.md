@@ -3,6 +3,8 @@ This a software inspired by https://www.youtube.com/watch?v=hCoIBt49gtk.
 
 Disclaimer: Windows Defender will say it is a Potentially Unwanted Software since it is compiled with PyInstaller and I cant afford to get a digital certificate to sign the setup with. Be rest assured it is safe.
 
+FYI: FGTcodec isn't affiliated with PTFS, we are just providing a software to enhance the ATC experience in the PTFS Towers. Hope you understand.
+
 ## INSTALLATION
 To install ATC Management Software, you just have to download the FGT.exe from https://github.com/CoderFGT/ATCms/releases. Select the latest version.
 After downloading, you have to run it and it will setup for you, it can create a shortcut for accessibility as well.
